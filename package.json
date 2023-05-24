@@ -1,0 +1,14 @@
+{
+  "name": "Webpage-Cloud-Deploy",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
